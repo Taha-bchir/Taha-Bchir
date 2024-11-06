@@ -5,7 +5,7 @@ I'm a beginner developer learning web development and Python programming. Here�
 - 🌱 I’m currently learning ReactJS, C#, and PHP.
 - 🔭 I’m working on small projects like calculators and simple games.
 - 🤔 I’m open to collaborate on beginner-friendly open-source projects.
-- 📫 How to reach me: bchirtaha@sfax.r-iset.tn
+- 📫 How to reach me: bchirtaha@sfax.r-iset.tn OR tahabchir6@gmail.com .
 
 ## My Projects
 
