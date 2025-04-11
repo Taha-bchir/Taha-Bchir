@@ -3,7 +3,7 @@
 I’m an IT student currently learning web development and Python programming. Here's a little more about me:
 
 - 🌱 I’m currently learning **ReactJS**, **C#**, **.NET**, **JAVA**, **Python**, and **PHP**.
-- 🔭 I’m working on regular projects, including the **Bid-Bazaar** auction platform built with **Laravel**, **Vue.js**, **Nuxt.js**, and **TypeScript**.
+- 🔭 I’m working on web development projects, including the **Bid-Bazaar** auction platform built with **Laravel**, **Vue.js**, **Nuxt.js**, and **TypeScript**.
 - 📫 How to reach me: **bchirtaha@sfax.r-iset.tn** or **tahabchir6@gmail.com**.
 
 ## My Projects
